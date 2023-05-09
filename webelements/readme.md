@@ -28,7 +28,7 @@ This repo is for the webElements Custom Function library for Crystal Reports on 
 1. No HTML programming knowledge is required.
 <br>
 
-![wepic](/webelements/admin/db.jpg)
+![wepic](/webelements/admin/wem050923.png)
 
 ## Notes
 
