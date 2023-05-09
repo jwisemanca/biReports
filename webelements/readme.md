@@ -21,7 +21,7 @@ This repo is for the webElements Custom Function library for Crystal Reports on 
 
 ### webElements Has the Following Advantages:
 
-1. It’s free.
+1. It’s free and open source.
 1. No additional web pages are required…only the .rpt file.
 1. No additional personnel are required…just the report developer.
 1. No additional tools (i.e. software packages) are required.
