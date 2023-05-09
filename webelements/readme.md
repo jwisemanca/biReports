@@ -31,10 +31,9 @@ This repo is for the webElements Custom Function library for Crystal Reports on 
 
 1. This is currently a beta / test version for CR 2020 & SAP BI 4.3.  
 1. Please thoroughly test on a development environment before adding to any production reports. 
-1. You can download the [latest beta version of webElements here.](https://github.com/jwisemanca/biReports/blob/master/webelements/webElements430_20230508.rpt)
+1. You can download the [latest beta version of webElements here.](../raw/master/webelements/webElements430_20230508.rpt)
 3. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
 4. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20430.pdf)
-[test](https://github.com/jwisemanca/git-cloud-storage/webElements430_20230508.rpt)
 <br>
 
 ![wepic](/webelements/admin/db.jpg)
