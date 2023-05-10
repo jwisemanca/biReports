@@ -32,7 +32,7 @@ This repo is for the free / open source webElements Custom Function library for 
 
 ## Notes
 
-1. This is currently a beta / test version for CR 2020 & SAP BI 4.3.  
+1. This is currently a beta / test version for CR 2020 & SAP BI 4.3 and the last update is May 8 2023.  
 1. Please thoroughly test on a development environment before adding to any production reports. 
 1. You can download the [latest beta version of webElements here.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements430_20230508.rpt)
 3. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
