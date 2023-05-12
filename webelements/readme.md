@@ -20,7 +20,7 @@ This repo is for the free / open source webElements Custom Function library for 
 1. Create interactive dashboard style reports.
 <br>
 
-![wepic](/webelements/admin/weembcontn.png)
+
 
 ### webElements Has the Following Advantages:
 
