@@ -18,6 +18,7 @@ This repo is for the <b>free / open source</b> webElements Custom Function libra
 1. Create a reporting jump page or navigation page.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
 1. Create interactive dashboard style reports.
+1. Create email using report data.
 <br>
 
 ![wepic](/webelements/admin/weembcontb.png)
