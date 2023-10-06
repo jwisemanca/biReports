@@ -14,11 +14,11 @@ This repo is for the <b>free / open source</b> webElements Custom Function libra
 
 1. Embed web controls into a Crystal report.
 1. Develop a custom prompt page to target Crystal Reports.
+1. Create interactive dashboard-style reports.
 1. Develop an interface to provide additional interaction with data such as write-backs to the database via target reports using a stored procedure.
 1. Create a reporting jump page or navigation page.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
-1. Create interactive dashboard style reports.
-1. Create email using report data.
+1. Develop reports which can create an email using report data.
 <br>
 
 ![wepic](/webelements/admin/weembcontb.png)
