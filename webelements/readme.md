@@ -17,7 +17,7 @@ This repo is for the <b>free / open source</b> webElements Custom Function libra
 1. Create interactive dashboard-style reports.
 1. Develop an interface for write-backs to the database, using target reports based on a stored procedure.
 1. Create a reporting jump page or navigation page.
-1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
+1. Customize, hide, or suppress the Crystal Reports viewer toolbar and filter report-based export options.
 1. Develop reports which can create an email using report data.
 <br>
 
