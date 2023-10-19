@@ -6,8 +6,6 @@
 ## Description
 
 This repo is for the <b>free / open source</b> webElements Custom Function library for Crystal Reports on SAP BI / BusinessObjects Enterprise / Crystal Reports Server 4.3. This library allows a report writer to add web controls to a report file to create custom prompt / parameter dialogues. 
-
-The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
 <br>
 
 ![wepic](/webelements/admin/ppsm.jpg)
@@ -44,6 +42,8 @@ The last version I built (for BI 4.1) while working at SAP's HANA Academy is [he
 3. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
 4. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
 <br>
+
+The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
 
 ![wepic](/webelements/admin/wem231015.png)
 <br><br>
