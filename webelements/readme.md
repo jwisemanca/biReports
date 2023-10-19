@@ -43,8 +43,8 @@ This repo is for the <b>free / open source</b> webElements Custom Function libra
 4. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
 <br>
 
-The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
-
 ![wepic](/webelements/admin/wem231015.png)
 <br><br>
+The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
+
 ![wepic](/webelements/admin/db.jpg)
