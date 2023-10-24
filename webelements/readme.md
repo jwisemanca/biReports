@@ -10,7 +10,7 @@ This repo is for the <b>free / open source</b> webElements Custom Function libra
 
 ![wepic](/webelements/admin/ppsm.jpg)
 
-### webElements Helps Report Developers To:
+### webElements Can be Used by Report Developers To:
 
 1. Embed web controls into a Crystal report.
 1. Develop a custom prompt page to target Crystal Reports.
