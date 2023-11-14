@@ -37,10 +37,11 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 ## Notes
 
 1. This is currently an early release / test version for CR 2020 & SAP BI 4.3 and the last update is October 15 2023.  
-1. Please thoroughly test on a development environment before adding to any production reports. 
-1. You can download the [latest version of webElements here, including some samples.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements433_20231019.zip)
-3. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
-4. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
+1. Please thoroughly test on a development environment before adding to any production reports.
+1. The recommended experience level is expert report developer.
+1. [The latest version of webElements can be downloaded here, including some samples.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements433_20231019.zip)
+1. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
+1. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
 <br>
 
 ![wepic](/webelements/admin/wem231015.png)
