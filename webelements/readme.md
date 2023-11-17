@@ -21,10 +21,6 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. Develop reports which can create an email using report data.
 <br>
 
-<b>Need help?</b> Connect with me, [Jamie Wiseman, on LinkedIn](https://www.linkedin.com/in/jamie-wiseman-41bb769b).
-<br>
-<br>
-
 ![wepic](/webelements/admin/weembcontb.png)
 
 ### webElements Has the Following Advantages:
@@ -48,8 +44,12 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
 <br>
 
+<b>Need help?</b> Connect with me, [Jamie Wiseman, on LinkedIn](https://www.linkedin.com/in/jamie-wiseman-41bb769b).
+<br>
+<br>
+
 ![wepic](/webelements/admin/wem231015.png)
 <br><br>
-The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
+<b>Looking for older versions?</b>The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
 
 ![wepic](/webelements/admin/db.jpg)
