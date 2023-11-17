@@ -50,6 +50,6 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 ![wepic](/webelements/admin/wem231015.png)
 <br><br>
-<b>Looking for older versions?</b>The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
+<b>Looking for older versions?</b> The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
 
 ![wepic](/webelements/admin/db.jpg)
