@@ -21,7 +21,7 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. Develop reports which can create an email using report data.
 <br>
 
-<b>Need help?</b> Connect with me, [Jamie Wiseman, on LinkedIn](www.linkedin.com/in/jamie-wiseman-41bb769b).
+<b>Need help?</b> Connect with me, [Jamie Wiseman, on LinkedIn](https://www.linkedin.com/in/jamie-wiseman-41bb769b).
 <br>
 <br>
 
