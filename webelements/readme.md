@@ -5,7 +5,7 @@
 
 ## Description
 
-This GitHub repository is for the <b>free / open source</b> webElements Custom Function library for Crystal Reports on SAP BI / BusinessObjects Enterprise / Crystal Reports Server 4.3. This library allows a report writer to add web controls to a report.
+This GitHub repository is for the <b>free / open source</b> webElements Custom Function library for Crystal Reports on SAP BI / BusinessObjects Enterprise / Crystal Reports Server 4.3. This library allows a report developer to add web controls to a Crystal Report.
 <br>
 
 ![wepic](/webelements/admin/ppsm.jpg)
