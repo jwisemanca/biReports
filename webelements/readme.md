@@ -1,6 +1,6 @@
 <table width=100% border=0>
 <tr ><td colspan=2><h1>webElements</h1></td></tr>
-<tr><td>&nbsp;A Custom Function Library for Crystal Reports</td>
+<tr><td>&nbsp;A Custom Function Library for Crystal Reports</td></tr>
 </table>
 
 ## Description
@@ -19,6 +19,10 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. Create a reporting jump page or navigation page.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
 1. Develop reports which can create an email using report data.
+<br>
+
+Need help? Connect with me [(Jamie Wiseman) on LinkedIn](www.linkedin.com/in/jamie-wiseman-41bb769b).
+<br>
 <br>
 
 ![wepic](/webelements/admin/weembcontb.png)
