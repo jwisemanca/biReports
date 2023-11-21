@@ -14,8 +14,9 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 1. Embed web controls into a Crystal report.
 1. Develop a custom prompt page to target Crystal Reports.
-1. Create interactive dashboard-style reports.
+1. Create dashboard-style reports with more interactivity.
 1. Develop an interface for write-backs to the database, using target reports based on a stored procedure.
+1. Create a workflow to pass filtered & selected data to another report.
 1. Create a reporting jump page or navigation page.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
 1. Develop reports which can create an email using report data.
