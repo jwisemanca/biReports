@@ -38,7 +38,7 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 ### webElements 4.3 vs Older Versions:
 
 1. Can use an HTTP post, instead of OpenDocument reporting, for much faster performance. Note that this is experimental / beta.
-2. Can have multiple 'forms' on each report.
+2. Can have multiple independent 'forms' on each report.
 3. Has an option to create e-mails based on report data.
 4. Has new functions including a multi-select sortable table control.
 5. Has more options to customize the viewer.
