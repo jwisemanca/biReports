@@ -31,6 +31,7 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. No additional personnel are required…just the report developer.
 1. No additional tools (i.e. software packages) are required.
 1. No HTML programming knowledge is required.
+2. Can be customized by expert report developers familiar with Custom Functions.
 <br>
 
 ![wepic](/webelements/admin/weemail.png)
