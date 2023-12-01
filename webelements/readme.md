@@ -46,6 +46,8 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 Please see the sample reports for examples of the above.
 
+![wepic](/webelements/admin/weupdate.png)
+
 ## Notes
 
 1. This is currently an early release / test version for CR 2020 & SAP BI 4.3 and the last update is October 15 2023.  
