@@ -12,10 +12,10 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 ### webElements Can be Used by Report Developers To:
 
-1. Embed different types of web controls into a Crystal report to create a custom prompt interface.
+1. Embed different types of web controls into a SAP BI Crystal Report to create custom prompt interfaces.
 1. Create dashboard-style reports with more interactivity.
-1. Develop an interface for write-backs to the database, using target reports based on a stored procedure.
-1. Create a workflow to pass filtered & selected data to another report.
+1. Develop interfaces for write-backs to the database, using target reports based on a stored procedure.
+1. Create workflows to pass filtered & selected data to another report.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
 1. Develop reports which can create an email utilizing report data.
 <br>
