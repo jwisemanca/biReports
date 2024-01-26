@@ -12,14 +12,12 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 ### webElements Can be Used by Report Developers To:
 
-1. Embed different types of web controls into a Crystal report.
-1. Develop a custom prompt page to target one or more Crystal Reports.
+1. Embed different types of web controls into a Crystal report to create a custom prompt interface.
 1. Create dashboard-style reports with more interactivity.
 1. Develop an interface for write-backs to the database, using target reports based on a stored procedure.
 1. Create a workflow to pass filtered & selected data to another report.
-1. Create a reporting jump page or navigation page.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
-1. Develop reports which can create an email using report data.
+1. Develop reports which can create an email utilizing report data.
 <br>
 
 ![wepic](/webelements/admin/weembcontn.png)
@@ -29,7 +27,7 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. It’s free and open source.
 1. No additional web pages are required…only the .rpt file.
 2. Existing reports do not need to be altered.
-1. No additional personnel are required…just the report developer.
+1. No additional personnel are required…just an expert report developer.
 1. No additional tools (i.e. software packages) are required.
 1. No HTML programming knowledge is required.
 2. Can be customized by expert report developers familiar with Custom Functions.
