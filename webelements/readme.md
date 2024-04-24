@@ -5,7 +5,7 @@
 
 ## Description
 
-This GitHub repository is for the <b>free / open source</b> webElements Custom Function library for Crystal Reports on SAP BI / BusinessObjects Enterprise / Crystal Reports Server 4.3. This library allows a report developer to add web controls to a Crystal Report.
+This GitHub repository is for the <b>free / open source</b> webElements Custom Function library for Crystal Reports on SAP BI / BusinessObjects Enterprise 4.3 / Crystal Reports Server 2020. This library allows a report developer to add web controls to a Crystal Report when running in the DHTML Viewer.
 <br>
 
 ![wepic](/webelements/admin/ppsm.jpg)
@@ -14,7 +14,7 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 1. Embed different types of web controls into a SAP BI Crystal Report to create custom prompt interfaces.
 1. Create dashboard-style reports with more interactivity.
-1. Develop interfaces for write-backs to the database, using target reports based on a stored procedure.
+1. Develop interfaces / forms for write-backs to the database, using target reports based on a stored procedure.
 1. Create workflows to pass filtered & selected data to another report.
 1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
 1. Develop reports which can create an email utilizing report data.
@@ -40,8 +40,8 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. Can use an HTTP post, instead of OpenDocument reporting, for much faster performance. Note that this is experimental / beta.
 2. Can have multiple independent 'forms' on each report.
 3. Has an option to create e-mails based on report data.
-4. Has new functions including a multi-select sortable table control.
-5. Has more options to customize the viewer.
+4. Has new functions including a multi-select sortable table control with values based on report data.
+5. Has more options to customize the viewer, including limiting export options.
 
 Please see the sample reports for examples of the above.
 
@@ -49,7 +49,7 @@ Please see the sample reports for examples of the above.
 
 ## Notes
 
-1. This is currently an early release / test version for CR 2020 & SAP BI 4.3 and the last update is October 15 2023.  
+1. This is currently an early release / test version for CR 2020 & SAP BI 4.3 and the last update is April 24 2024.  
 1. Please thoroughly test on a development environment before adding to any production reports.
 1. The recommended experience level is expert report developer.
 1. [The latest version of webElements can be downloaded here, including some samples.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements433_20231019.zip)
@@ -63,6 +63,6 @@ Please see the sample reports for examples of the above.
 
 ![wepic](/webelements/admin/wem231015.png)
 <br><br>
-<b>Looking for older versions?</b> The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 and 4.3 but is not purpose built for 4.3.
+<b>Looking for older versions?</b> The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2.
 
 ![wepic](/webelements/admin/db.jpg)
