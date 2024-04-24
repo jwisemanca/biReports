@@ -26,7 +26,7 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 
 1. It’s free and open source.
 1. No additional web pages are required…only the .rpt file.
-2. Existing reports do not need to be altered.
+2. Existing reports do not need to be altered. A "wrapper" report can be created to interact with reports in an iFrame.
 1. No additional personnel are required…just an expert report developer.
 1. No additional tools (i.e. software packages) are required.
 1. No HTML programming knowledge is required.
