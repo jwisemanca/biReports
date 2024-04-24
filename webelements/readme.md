@@ -58,6 +58,7 @@ Please see the sample reports for examples of the above.
 1. [The latest version of webElements can be downloaded here, including some samples.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements433Release240424.zip)
 1. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
 1. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
+2. See the [Getting Started section here](https://github.com/jwisemanca/biReports/blob/master/webelements/admin/GettingStarted.md). 
 <br>
 
 <b>Need help?</b> Connect with me, [Jamie Wiseman, on LinkedIn](https://www.linkedin.com/in/jamie-wiseman-41bb769b).
