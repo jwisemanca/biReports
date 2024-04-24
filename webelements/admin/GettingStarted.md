@@ -9,8 +9,8 @@
 
 1. Pass-through HTML is activated on the server where you want to run the customized reports.
 1. The Custom Functions are installed into the CR Server or BusinessObjects Repository using the main / master sample report.
-1. The library is then installed onto a development report. See the first picture below.
-1. Sample formulas for the individual controls can be copied from the main / master sample report onto the development report to be customized. See the second picture below.
+1. The library is then installed onto a development report.
+1. Sample formulas for the individual controls can be copied from the main / master sample report onto the development report to be customized.
 1. A formula for a submit method (e.g. a button or link) to a named target report is added to the development report.
 1. A formula is added to the development report which ties in all of the controls and builds the necessary code.
 1. The development report is saved to the server environment to be tested in the DHTML viewer.
