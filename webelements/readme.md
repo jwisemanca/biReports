@@ -16,8 +16,11 @@ This GitHub repository is for the <b>free / open source</b> webElements Custom F
 1. Create dashboard-style reports with more interactivity.
 1. Develop interfaces / forms for write-backs to the database, using target reports based on a stored procedure.
 1. Create workflows to pass filtered & selected data to another report.
-1. Customize, hide, or suppress the Crystal Reports viewer toolbar.
+1. Create reports with hierarchical section navigation. (See the picture further below.)
+1. Customize, hide, or suppress the Crystal Reports viewer toolbar. e.g. Suppress the refresh button or limit export options.
+1. Add an auto-refresh capability for dashboard reports.
 1. Develop reports which can create an email utilizing report data.
+1. Prevent drill-down on group-level objects and subreports.
 <br>
 
 ![wepic](/webelements/admin/weembcontn.png)
