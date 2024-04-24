@@ -8,7 +8,7 @@
 ### Simplified Development Process:
 
 1. Pass-through HTML is activated on the server where you want to run the customized reports.
-1. The Custom Functions are installed into the CR Server or BusinessObjects Repository using the main / master sample report.
+1. The Custom Functions are installed into the CR Server or BusinessObjects Repository using the webElements433 main / master sample report. There are further instructions included on this report.
 1. The library is then installed onto a development report.
 1. Sample formulas for the individual controls can be copied from the main / master sample report onto the development report to be customized.
 1. A formula for a submit method (e.g. a button or link) to a named target report is added to the development report.
