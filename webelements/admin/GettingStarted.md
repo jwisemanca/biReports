@@ -24,4 +24,5 @@
 4. Open the "webElements Jump Page" report. If you are using the Fiori viewer click on the lime-green link to open in the DHTML viewer.
 5. Open any of the sample reports using the jump page links.
 
+![wepic](/webelements/admin/wesrjp2.png)
 
