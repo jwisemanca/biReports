@@ -55,7 +55,7 @@ Please see the sample reports for examples of the above.
 1. This is currently an early release / test version for CR 2020 & SAP BI 4.3 and the last update is April 24 2024.  
 1. Please thoroughly test on a development environment before adding to any production reports.
 1. The recommended experience level is expert report developer.
-1. [The latest version of webElements can be downloaded here, including some samples.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements433_20231019.zip)
+1. [The latest version of webElements can be downloaded here, including some samples.](https://github.com/jwisemanca/biReports/raw/master/webelements/webElements433Release240424.zip)
 1. Pass-through HTML needs to be activated in the SAP BI / BOBJ Enterprise environment. The steps to do this are [here](/webelements/admin/passthroughhtml.md).
 1. A User Guide (which is being updated) is available [here.](/webelements/webElements%20User%20Guide%20433.pdf)
 <br>
@@ -66,6 +66,6 @@ Please see the sample reports for examples of the above.
 
 ![wepic](/webelements/admin/wem231015.png)
 <br><br>
-<b>Looking for older versions?</b> The last version I built (for BI 4.1) while working at SAP's HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2.
+<b>Looking for an older version?</b> The last version (for BI 4.1) from the SAP HANA Academy is [here.](https://github.com/saphanaacademy/biReports/tree/master/webelements) This version should also work with 4.2 but has not been tested extensively.
 
 ![wepic](/webelements/admin/db.jpg)
